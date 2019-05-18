@@ -6,3 +6,4 @@ package: Example modules
 dependencies:
   - drupal:node
   - drupal:user
+core: '8.x'
